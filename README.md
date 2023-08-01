@@ -8,8 +8,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
-File Explorer Features .
-User can add new Folder
-User can Rename and Delete Folder
-User can Create a file
-User can Rename and Delete a file#
+- File Explorer Features 
+- User can add new Folder
+- User can Rename and Delete Folder
+- User can Create a file
+- User can Rename and Delete a file#
